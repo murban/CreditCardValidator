@@ -1,0 +1,6 @@
+C:\CreditCardValidator\CreditCardValidator\bin\Debug\CreditCardValidator.dll
+C:\CreditCardValidator\CreditCardValidator\bin\Debug\CreditCardValidator.pdb
+C:\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.csprojResolveAssemblyReference.cache
+C:\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.csproj.CoreCompileInputs.cache
+C:\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.dll
+C:\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.pdb
