@@ -19,6 +19,29 @@ namespace CreditCardValidator.Droid.UITests
 			app = ConfigureApp.Android.StartApp();
 		}
 
-	}
+        [Test]
+        public void TitleShouldBeDisplayed()
+        {
+            app.Screenshot("Title");
+            Assert.True(app.Query("Enter Credit Card Number").Any());
+        }
+
+        [Test]
+        public void TooShortMessageShouldBeDisplayed()
+        {
+            app.Tap("creditCardNumberText");
+            app.EnterText("5555");
+            Assert.True(app.Query("Credit card number is too short.").Any());
+        }
+
+        [Test]
+        public void TooLongMessageShouldBeDisplayed()
+        {
+            app.Tap("creditCardNumberText");
+            app.EnterText("555555555555555555");
+            Assert.True(app.Query("Credit card number is too long.").Any());
+        }
+
+    }
 }
 
