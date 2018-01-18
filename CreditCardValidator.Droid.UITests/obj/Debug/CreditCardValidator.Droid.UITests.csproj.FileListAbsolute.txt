@@ -1,0 +1,10 @@
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\bin\Debug\CreditCardValidator.Droid.UITests.dll
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\bin\Debug\CreditCardValidator.Droid.UITests.pdb
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\bin\Debug\nunit.framework.dll
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\bin\Debug\Xamarin.UITest.dll
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\bin\Debug\nunit.framework.xml
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\bin\Debug\Xamarin.UITest.xml
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\obj\Debug\CreditCardValidator.Droid.UITests.csprojResolveAssemblyReference.cache
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\obj\Debug\CreditCardValidator.Droid.UITests.csproj.CoreCompileInputs.cache
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\obj\Debug\CreditCardValidator.Droid.UITests.dll
+C:\CreditCardValidator\CreditCardValidator.Droid.UITests\obj\Debug\CreditCardValidator.Droid.UITests.pdb

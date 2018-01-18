@@ -19,6 +19,10 @@ C:\CreditCardValidator\CreditCardValidator.Droid\obj\Debug\res\drawable-xxxhdpi\
 C:\CreditCardValidator\CreditCardValidator.Droid\obj\Debug\res\layout\creditcardvalidationsuccess.xml
 C:\CreditCardValidator\CreditCardValidator.Droid\obj\Debug\R.cs.flag
 C:\CreditCardValidator\CreditCardValidator.Droid\obj\Debug\uploadflags.txt
+C:\CreditCardValidator\CreditCardValidator.Droid\bin\Debug\CreditCardValidator.dll.mdb
+C:\CreditCardValidator\CreditCardValidator.Droid\bin\Debug\CreditCardValidator.Droid.dll.mdb
+C:\CreditCardValidator\CreditCardValidator.Droid\obj\Debug\android\assets\CreditCardValidator.dll.mdb
+C:\CreditCardValidator\CreditCardValidator.Droid\obj\Debug\android\assets\CreditCardValidator.Droid.dll.mdb
 C:\CreditCardValidator\CreditCardValidator.Droid\bin\Debug\CreditCardValidator.Droid.dll
 C:\CreditCardValidator\CreditCardValidator\bin\Debug\CreditCardValidator.dll
 bin\Debug\CreditCardValidator.dll.mdb
