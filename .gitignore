@@ -6,3 +6,5 @@
 /.vs/CreditCardValidator.Droid/v15/Server/sqlite3/storage.ide-wal
 /CreditCardValidator/obj/Debug/DesignTimeResolveAssemblyReferences.cache
 /murban.keystore
+/CreditCardValidator/bin/Release
+/CreditCardValidator.Droid/bin/Release

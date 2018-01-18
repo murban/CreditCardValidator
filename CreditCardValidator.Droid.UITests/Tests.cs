@@ -31,6 +31,7 @@ namespace CreditCardValidator.Droid.UITests
         {
             app.Tap("creditCardNumberText");
             app.EnterText("5555");
+            app.Tap("Validate Credit Card");
             Assert.True(app.Query("Credit card number is too short.").Any());
         }
 
@@ -39,6 +40,7 @@ namespace CreditCardValidator.Droid.UITests
         {
             app.Tap("creditCardNumberText");
             app.EnterText("555555555555555555");
+            app.Tap("Validate Credit Card");
             Assert.True(app.Query("Credit card number is too long.").Any());
         }
 
